@@ -12475,7 +12475,7 @@ pre .code {
 }
 
 .social-icons .social-link {
-  font-size: 30px;
+  font-size: 80px;
   color: white;
   z-index: 3;
 }
@@ -12616,6 +12616,7 @@ pre .code {
 }
 
 .container1 li {
+  size: 2%;
   display: inline-block;
   float: none;
   /* Reset the float property */
