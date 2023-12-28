@@ -3528,6 +3528,9 @@ fieldset:disabled a.btn {
 .btn-outline-warning.focus {
   box-shadow: 0 0 0 0.2rem rgba(255, 136, 130, 0.5);
 }
+.btn.btn-outline-danger:hover a {
+  color: white;
+}
 
 .btn-outline-warning.disabled,
 .btn-outline-warning:disabled {
@@ -3550,7 +3553,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-danger {
-  color: #3a506b;
+  color: #ffffff;
   border-color: #3a506b;
 }
 
@@ -3659,12 +3662,12 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #3a506b;
+  color: #ffffff;
   text-decoration: none;
 }
 
 .btn-link:hover {
-  color: #3a506b;
+  color: #f6f8fa;
   text-decoration: none;
 }
 
